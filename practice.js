@@ -7,7 +7,7 @@
 //////////////////PROBLEM 2////////////////////
 
 //Create a variable called myAge that is a number data type
-
+wugrofjofiouhouif
 //Code here
 
 //////////////////PROBLEM 3////////////////////
